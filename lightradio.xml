@@ -25,10 +25,4 @@
       <title>Classical (KWMU-3)</title>
       <link>https://www.stlpr.org/kwmu3.mp3</link>
       <description>St. Louis Public Radio - Classical stream</description>
-      <enclosure url="https://www.stlpr.org/kwmu3.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">kwmu3</guid>
-    </item>
-    
-  </channel>
-</rss>
-
+      <enclosure url="https://www.stlpr
