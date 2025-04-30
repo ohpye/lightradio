@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>St. Louis Public Radio Streams</title>
+    <link>https://www.stlpr.org/</link>
+    <description>Streaming links for St. Louis Public Radio (Marketplace, Jazz, Classical)</description>
+
+    <item>
+      <title>Marketplace (KWMU-1)</title>
+      <link>https://www.stlpr.org/kwmu1.mp3</link>
+      <description>St. Louis Public Radio - Marketplace stream</description>
+      <enclosure url="https://www.stlpr.org/kwmu1.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">kwmu1</guid>
+    </item>
+
+    <item>
+      <title>Jazz (KWMU-2)</title>
+      <link>https://www.stlpr.org/kwmu2.mp3</link>
+      <description>St. Louis Public Radio - Jazz stream</description>
+      <enclosure url="https://www.stlpr.org/kwmu2.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">kwmu2</guid>
+    </item>
+
+    <item>
+      <title>Classical (KWMU-3)</title>
+      <link>https://www.stlpr.org/kwmu3.mp3</link>
+      <description>St. Louis Public Radio - Classical stream</description>
+      <enclosure url="https://www.stlpr.org/kwmu3.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">kwmu3</guid>
+    </item>
+    
+  </channel>
+</rss>
+
